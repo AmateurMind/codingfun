@@ -23,7 +23,7 @@ img_lottie_animation=Image.open("img\\cat.jpg")
 with st.container():
     st.subheader("Hi :wave:")
     st.title("This is the official page of Trade Planet🌏")
-    st.write("Thhis is just a weird webpage. I don't know why I am making this, I am not a trader LOLzz. My main purpose is to make a webapp and stuff!💻 ")
+    st.write("This is just a weird webpage. I don't know why I am making this, I am not a trader LOLzz. My main purpose is to make a webapp and stuff!💻 ")
     st.write("If you are still interested in Trading")
     st.write("I know a webpage for you 🫵")
     st.write("[Instagram link >](https://www.instagram.com/trade_.planet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)") 
